@@ -1,0 +1,32 @@
+body{
+	background-color: rgb(85, 162, 185);
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+#principal{
+	background-color: white;
+	width:  60%;
+	margin: auto;
+	height:  auto;
+
+	display: flex;
+	flex-direction: column;
+	gap:  70px;
+	padding:  30px;
+	border-radius:  15px;
+	box-shadow:  2px 2px 10px rgba(0, 0, 0, 0.281);
+}
+
+footer{
+	color: white;
+	text-align: center;
+	font-style: italic;
+}
+
+.res{
+	font-size:  25px;
+	height:  auto;
+	font-weight: bold;
+	
+}
